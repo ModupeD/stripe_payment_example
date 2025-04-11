@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "firebase-tools": "^14.1.0",
+    "stripe": "^18.0.0"
+  }
+}
